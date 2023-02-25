@@ -5,7 +5,8 @@
       <h1>Kaixian Liang</h1>
       <p><b>Graduate Student</b></p>
       <p><b>From School of Mechanical and Electric Engineering, Guangzhou University</b></p>
-      <p><b> :email: E-mail：2112107016@e.gzhu.edu.cn</b></p>
+      <p><b>:email:E-mail：2112107016@e.gzhu.edu.cn</b></p>
+      <p><b>:location：Guangzhou, China</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
