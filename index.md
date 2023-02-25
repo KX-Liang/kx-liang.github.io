@@ -3,8 +3,7 @@
   <tr>
     <td width="75%">
       <h1>Kaixian Liang</h1>
-      <p><b>Graduate Student</b></p>
-      <p><b>××大学××学院</b></p>
+      <p><b>Graduate Student from School of Mechanical and Electric Engineering, Guangzhou University</b></p>
       <p><b>邮箱：1234567789@qq.com</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
       <p><a href="/index-en.html">English Version</a></p>
