@@ -17,7 +17,7 @@
 </div>
 
 ---
-### Personal Introduction
+### :point_down:Personal Introduction
 
 Kaixian Liang graduated from Guangzhou University with a bachelors degree of mechanical engineering with outstanding performance (rank 1/168, GPA 3.97/5.0) in July 2021, and is now continuing his studies as a graduate student in mechanical engineering at Guangzhou University (Supervisor: Prof. Zhu Dachang).
 
@@ -25,7 +25,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 
 ---
 
-### 最新消息
+### Latest News
 1. 消息1×××
 
 ### 研究方向
