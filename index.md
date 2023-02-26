@@ -35,8 +35,8 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 #### :book:Journal Papers
 <ol>
   <li><p>Topology optimization of a spatial compliant parallel mechanism based on constant motion transmission characteristic matrix</p>
-  <p><b><i>Mechanism and Machine Theory</i></b></p> 
   <p><b>Kaixian Liang</b>, Dachang Zhu, Jie Liu</p>
+  <p><b><i>Mechanism and Machine Theory</i></b></p> 
   <img src="/TO parallel mechanism.jpg" width="60%"></li>
   
   <li><p>Topology optimization of a spatial compliant parallel mechanism based on constant motion transmission characteristic matrix</p>
@@ -45,17 +45,6 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
   <img src="/TO parallel mechanism.jpg" width="60%"></li>
 </ol>
 
-<p>Topology optimization of a spatial compliant parallel mechanism based on constant motion transmission characteristic matrix</p>
-<p><b><i>Mechanism and Machine Theory</i></b></p> 
-<p><b>Kaixian Liang</b>, Dachang Zhu, Jie Liu</p>
-<img src="/TO parallel mechanism.jpg" width="60%">
-
----
-
-<p><b><i>Mechanism and Machine Theory</i></b></p> 
-<p>Title: Topology optimization of a spatial compliant parallel mechanism based on constant motion transmission characteristic matrix</p>
-<p>Authors: <b>Kaixian Liang</b>, Dachang Zhu, Jie Liu</p>
-<img src="/TO parallel mechanism.jpg" width="60%">
 
 #### :newspaper:Conference
 - <p><b>K. Liang</b>, D. Zhu, J. Liu, Topology optimization realization of a spatially parallel compliant mechanism with constant motion transmission characteristics, the 42nd ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, St. Louis, Missouri, August 14-17, 2022.<p>
