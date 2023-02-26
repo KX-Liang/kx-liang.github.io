@@ -31,8 +31,8 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 - 2022.09: One paper resubmitted to CMAME
 ### :clipboard:Publications
 #### Journal Papers
-<img src="/TO parallel mechanism.jpg" width="50%"> Mechanism and Machine Theory: Topology optimization of a spatial compliant parallel mechanism
-based on constant motion transmission characteristic matrix
+<img src="/TO parallel mechanism.jpg" width="50%"> 
+<p><b>Mechanism and Machine Theory</b></p>: Topology optimization of a spatial compliant parallel mechanism based on constant motion transmission characteristic matrix
 
 #### Conference
 
