@@ -38,12 +38,13 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 
 ### :newspaper:Conference
 
-### 荣誉奖励
-- 奖学金
-- 荣誉称号
-- 比赛获奖
+### Honors and Awards
 
-### 项目研究
+
+### Educations
+- 2021.09-Now, MEng, Guangzhou University, Guangzhou.
+- 2019.08, Summer vacation project, University of Washington, Seattle.
+- 2017.09-2021.07, BEng, Guangzhou University, Guangzhou.
 #### 公司/学校/研究所（2013.9~2017.6）
 - **项目1**  
 项目描述
