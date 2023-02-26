@@ -40,10 +40,6 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
   </tr>
 </table>
 
-<div>
-<img style="position:absolute;margin-left:900px" src="D:\TO parallel mechanism.jpg">
-</div>
-
 ### :newspaper:Conference
 
 ### Honors and Awards
