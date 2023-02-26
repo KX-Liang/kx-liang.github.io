@@ -41,7 +41,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 </table>
 
 <div>
-<img style="position:absolute;margin-left:10px" src="D:\TO parallel mechanism.jpg" width="60%">
+<img style="position:absolute;margin-left:900px" src="D:\TO parallel mechanism.jpg">
 </div>
 
 ### :newspaper:Conference
