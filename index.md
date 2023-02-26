@@ -31,7 +31,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 - 2022.09: One paper resubmitted to CMAME
 ### :clipboard:Publications
 #### Topology optimization
-
+<img src="/TO compliant mechanism.jpg" width="80%">
 
 ### 荣誉奖励
 - 奖学金
