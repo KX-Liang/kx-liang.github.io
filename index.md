@@ -39,7 +39,8 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
          <p>Authors: <b>Kaixian Liang</b>, Dachang Zhu, Jie Liu</p>></td>
   </tr>
 </table>
- 
+
+<img src="/TO parallel mechanism.jpg" width="60%" align="absmiddle"><span>文字</span>
 
 ### :newspaper:Conference
 
