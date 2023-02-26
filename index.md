@@ -10,7 +10,7 @@
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/TO compliant mechanism.jpg" width="100%">
+      <img src="/self-photo.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 - 2022.09: One paper resubmitted to CMAME
 ### :clipboard:Publications
 #### Topology optimization
-<img src="/self-photo.jpg" width="80%">
+<img src="/self-photo.png" width="80%">
 
 ### 荣誉奖励
 - 奖学金
