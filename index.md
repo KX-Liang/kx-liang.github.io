@@ -29,14 +29,17 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 - 2023.02: One paper accepted by CMAME
 - 2023.01: Exploring new frontiers-Topology optimization and Machine Learning
 - 2022.09: One paper resubmitted to CMAME
+
+---
 ### :clipboard:Publications
-### :book:Journal Papers
+#### :book:Journal Papers
 <img src="/TO parallel mechanism.jpg" width="60%">
 <p><b><i>Mechanism and Machine Theory</i></b></p> 
 <p>Title: Topology optimization of a spatial compliant parallel mechanism based on constant motion transmission characteristic matrix</p>
 <p>Authors: <b>Kaixian Liang</b>, Dachang Zhu, Jie Liu</p>
 
-### :newspaper:Conference
+#### :newspaper:Conference
+- <p><b>K. Liang</b>, D. Zhu, J. Liu, Topology optimization realization of a spatially parallel compliant mechanism with constant motion transmission characteristics, the 42nd ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, St. Louis, Missouri, August 14-17, 2022.<p>
 
 ### Honors and Awards
 
