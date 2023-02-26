@@ -17,7 +17,7 @@
 </div>
 
 ---
-### :point_down:Personal Introduction
+### :point_down:Biography
 
 Kaixian Liang graduated from Guangzhou University with a bachelors degree of mechanical engineering with outstanding performance (rank 1/168, GPA 3.97/5.0) in July 2021, and is now continuing his studies as a graduate student in mechanical engineering at Guangzhou University (Supervisor: Prof. Zhu Dachang).
 
@@ -29,7 +29,8 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 - 2023.02: One paper accepted by CMAME
 - 2023.01: Exploring new frontiers-Topology optimization and Machine Learning
 - 2022.12: One paper resubmitted to CMAME
-### 研究方向
+### :clipboard:Publications
+#### Topology optimization
 - 文本挖掘
 - 知识图谱
 
