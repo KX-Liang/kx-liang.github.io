@@ -1,7 +1,7 @@
 <div>
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="65%">
       <h1>Kaixian Liang</h1>
       <p><b>Graduate Student</b></p>
       <p><b>From School of Mechanical and Electric Engineering, Guangzhou University</b></p>
@@ -9,8 +9,8 @@
       <p><b>:earth_asia:Location: Guangzhou, China</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
-    <td width="40%">
-      <img src="/self-photo.jpg" width="100%">
+    <td width="35%">
+      <img src="/self-photo.jpg" width="50%">
     </td>
   </tr>
 </table>
