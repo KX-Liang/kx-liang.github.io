@@ -30,8 +30,10 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 - 2023.01: Exploring new frontiers-Topology optimization and Machine Learning
 - 2022.09: One paper resubmitted to CMAME
 ### :clipboard:Publications
-#### Topology optimization
-<img src="/TO parallel mechanism.jpg" width="80%">
+#### Journal Papers
+<img src="/TO parallel mechanism.jpg" width="50%"> 
+
+#### Conference
 
 ### 荣誉奖励
 - 奖学金
