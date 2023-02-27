@@ -1,10 +1,8 @@
 <div>
 <table border="0">
    <tr>
-     <td width="30%">
-        <img src="/self-photo.jpg" width="100%">
-     </td>
-     <td width="70%">
+
+     <td width="100%">
         <h1>Kaixian Liang</h1>
         <p><b>Graduate Student</b></p>
         <p><b><img src="/email.jpg" width="15px">  E-mail：2112107016@e.gzhu.edu.cn</b></p>
