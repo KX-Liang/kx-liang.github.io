@@ -35,7 +35,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 #### :book:Journal Papers
 <ul>
   
-  <li><p><a href="https://www.sciencedirect.com/science/article/pii/S0094114X22003718">Macro-microscale topological design for compliant mechanisms with special mechanical properties</a></p>
+  <li><p><u><a href="https://www.sciencedirect.com/science/article/pii/S0094114X22003718">Macro-microscale topological design for compliant mechanisms with special mechanical properties</a></u></p>
   <p><b>Kaixian Liang</b>, Dachang Zhu, Fangyi Li</p>
   <p><b><i>Computer Methods in Applied Mechanics and Engineering</i></b></p> 
   <img src="/TO macro-microscale.jpg" width="60%"></li>
