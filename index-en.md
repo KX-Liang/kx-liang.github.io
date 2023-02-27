@@ -27,13 +27,13 @@
 ---
 
 ### <img src="/news.jpg" width="18px">  Latest News
-- 2023.02: One paper accepted by CMAME
-- 2023.01: Exploring new frontiers-Topology optimization and Machine Learning
-- 2022.09: One paper resubmitted to CMAME
+- 2023.02: 一篇论文被CMAME接收
+- 2023.01: 开创新研究领域：机器学习与拓扑优化
+- 2022.09: 投稿至CMAME
 
 ---
-### <img src="/publication.jpg" width="18px">  Publications
-#### <img src="/journal.jpg" width="18px">  Journal Papers
+### <img src="/publication.jpg" width="18px">  已出版文章
+#### <img src="/journal.jpg" width="18px">  期刊论文
 <ul>
   
   <li><p><u><a href="https://www.sciencedirect.com/science/article/pii/S0094114X22003718">Topology optimization of a spatial compliant parallel mechanism based on     constant motion transmission characteristic matrix</a></u></p>
@@ -49,20 +49,20 @@
 </ul>
 
 
-#### <img src="/conference.jpg" width="18px">  Conference
+#### <img src="/conference.jpg" width="18px">  会议论文
 - <p><b>K. Liang</b>, D. Zhu, J. Liu, Topology optimization realization of a spatially parallel compliant mechanism with constant motion transmission characteristics, the 42nd ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, St. Louis, Missouri, August 14-17, 2022.<p>
 ---
-### <img src="/award.jpg" width="18px">  Honors and Awards
-- 2022.09 3rd-class Scholarship for Academic Excellence, GZU
-- 2021.09 Special Scholarship for Academic Excellence，GZU
-- 2021.06 Excellent Graduation Thesis of Guangzhou University
-- 2021.02 3rd-class Scholarship for Academic Excellence, GZU
-- 2020.09 2nd-class Scholarship for Academic Excellence, GZU
-- 2019.09 1st-class Scholarship for Academic Excellence, GZU
-- 2018.09 1st-class Scholarship for Academic Excellence, GZU
+### <img src="/award.jpg" width="18px">  荣誉与奖项
+- 2022.09 广州大学研究生三等奖学金
+- 2021.09 广州大学研究生特等奖学金
+- 2021.06 广州大学优秀本科毕业论文
+- 2021.02 广州大学本科生三等奖学金
+- 2020.09 广州大学本科生二等奖学金
+- 2019.09 广州大学本科生一等奖学金
+- 2018.09 广州大学本科生一等奖学金
 ---
-### <img src="/education.jpg" width="18px">  Educations
-- 2021.09-Now, MEng, Guangzhou University, Guangzhou. (Rank: 1/82 GPA: 3.99/5.0)
-- 2019.08, Project of AI and Robotic, University of Washington, Seattle.
-- 2017.09-2021.07, BEng, Guangzhou University, Guangzhou. (Rank: 1/168 GPA: 3.97/5.0)
+### <img src="/education.jpg" width="18px">  学习经历
+- 2021.09至今，硕士，广州大学 (绩点: 3.99/5.0)
+- 2019.08，人工智能与机器人项目，华盛顿大学，西雅图
+- 2017.09-2021.07，本科，广州大学 (排名: 1/168 绩点: 3.97/5.0)
 
