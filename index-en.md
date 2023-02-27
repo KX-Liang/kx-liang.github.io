@@ -27,9 +27,9 @@
 ---
 
 ### <img src="/news.jpg" width="18px">  Latest News
-- 2023.02: 一篇论文被CMAME接收
+- 2023.02: 一篇研究论文被CMAME接收
 - 2023.01: 开创新研究领域：机器学习与拓扑优化
-- 2022.09: 投稿至CMAME
+- 2022.09: 一篇研究论文投稿至CMAME
 
 ---
 ### <img src="/publication.jpg" width="18px">  已出版文章
