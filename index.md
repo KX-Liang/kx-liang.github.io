@@ -10,7 +10,7 @@
         <p><b><img src="/email.jpg" width="15px">  E-mail：2112107016@e.gzhu.edu.cn</b></p>
         <p><b><img src="/building.jpg" width="15px">  Institution: School of Mechanical and Electric Engineering</b></p>
         <p><b><img src="/location.jpg" width="15px">  Location: Guangzhou, China</b></p>
-        <p><a href="/index-en.html">中文版本</a></p>
+        <p><a href="/index-en.md">中文版本</a></p>
      </td>
    <tr>
 </table>
