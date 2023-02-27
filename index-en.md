@@ -5,11 +5,11 @@
         <img src="/self-photo.jpg" width="100%">
      </td>
      <td width="70%">
-        <h1>Kaixian Liang</h1>
-        <p><b>Graduate Student at Guangzhou University</b></p>
+        <h1>梁恺贤</h1>
+        <p><b>广州大学研究生</b></p>
         <p><b><img src="/email.jpg" width="15px">  E-mail：2112107016@e.gzhu.edu.cn</b></p>
-        <p><b><img src="/building.jpg" width="15px">  Institution: School of Mechanical and Electric Engineering</b></p>
-        <p><b><img src="/location.jpg" width="15px">  Location: Guangzhou, China</b></p>
+        <p><b><img src="/building.jpg" width="15px">  学院: 机械与电气工程学院</b></p>
+        <p><b><img src="/location.jpg" width="15px">  地址: 广东省广州市</b></p>
         <p><a href="/index.md">English Version</a></p>
      </td>
    <tr>
@@ -20,7 +20,7 @@
 
 ### <img src="/biography.jpg" width="18px">  Biography
 
-Kaixian Liang graduated from Guangzhou University with a bachelors degree of mechanical engineering with outstanding performance (rank 1/168, GPA 3.97/5.0) in July 2021, and is now continuing his studies as a graduate student in mechanical engineering at Guangzhou University (Supervisor: Prof. Zhu Dachang).
+本人于2021年7月毕业于广州大学，获得机械设计制造及其自动化学士学位并以推荐免试方式进入广州大学攻读机械设计及理论研究型硕士研究生。在本科阶段，本人以绩点排名专业第一（排位1/186，绩点3.97/5.0）毕业且获得广州大学本科优秀毕业论文；在硕士研究生阶段继续保持严谨、认真的科研态度，截至目前本人研究生课程绩点排名第一（排位1/82，绩点3.99/5.0）。
 
 I have a deeply interested in Topology optimization, Parallel mechanism, Soft robot and its sensing, and Machine learning. Until now, I have published some research paper in professional journals such as <b><i>Computer Methods in Applied Mechanics and Engineering</i></b> and <b><i>Mechanism and Machine Theory</i></b>.
 
