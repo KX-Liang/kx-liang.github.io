@@ -1,23 +1,23 @@
 <div>
 <table border="0">
   <tr>
-    <td width="65%">
+    <td width="70%">
       <h1>Kaixian Liang</h1>
       <p><b>Graduate Student</b></p>
-      <p><b><img src="/building.jpg" width="20px">  Institution: School of Mechanical and Electric Engineering, Guangzhou University</b></p>
-      <p><b><img src="/email.jpg" width="20px">  E-mail：2112107016@e.gzhu.edu.cn</b></p>
-      <p><b><img src="/location.jpg" width="20px">  Location: Guangzhou, China</b></p>
+      <p><b><img src="/building.jpg" width="18px">  Institution: School of Mechanical and Electric Engineering, Guangzhou University</b></p>
+      <p><b><img src="/email.jpg" width="18px">  E-mail：2112107016@e.gzhu.edu.cn</b></p>
+      <p><b><img src="/location.jpg" width="18px">  Location: Guangzhou, China</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
-    <td width="35%">
-      <img src="/self-photo.jpg" width="50%">
+    <td width="30%">
+      <img src="/self-photo.jpg" width="100%">
     </td>
   </tr>
 </table>
 </div>
 
 ---
-### <img src="/biography.jpg" width="15px">  Biography
+### <img src="/biography.jpg" width="18px">  Biography
 
 Kaixian Liang graduated from Guangzhou University with a bachelors degree of mechanical engineering with outstanding performance (rank 1/168, GPA 3.97/5.0) in July 2021, and is now continuing his studies as a graduate student in mechanical engineering at Guangzhou University (Supervisor: Prof. Zhu Dachang).
 
@@ -25,14 +25,14 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 
 ---
 
-### <img src="/fire.jpg" width="15px">  Latest News
+### <img src="/news.jpg" width="18px">  Latest News
 - 2023.02: One paper accepted by CMAME
 - 2023.01: Exploring new frontiers-Topology optimization and Machine Learning
 - 2022.09: One paper resubmitted to CMAME
 
 ---
-### <img src="/publication.jpg" width="20px">  Publications
-#### <img src="/journal.jpg" width="20px">  Journal Papers
+### <img src="/publication.jpg" width="18px">  Publications
+#### <img src="/journal.jpg" width="18px">  Journal Papers
 <ul>
   
   <li><p><u><a href="https://www.sciencedirect.com/science/article/pii/S0094114X22003718">Macro-microscale topological design for compliant mechanisms with special mechanical properties</a></u></p>
@@ -48,7 +48,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 </ul>
 
 
-#### <img src="/conference.jpg" width="20px">  Conference
+#### <img src="/conference.jpg" width="18px">  Conference
 - <p><b>K. Liang</b>, D. Zhu, J. Liu, Topology optimization realization of a spatially parallel compliant mechanism with constant motion transmission characteristics, the 42nd ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, St. Louis, Missouri, August 14-17, 2022.<p>
 
 ### Honors and Awards
