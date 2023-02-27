@@ -5,12 +5,15 @@
         <img src="/self-photo.jpg" width="100%">
      </td>
      <td width="70%">
-        <p><h1>Kaixian Liang</h1></p>
+        <h1>Kaixian Liang</h1>
         <p><b>Graduate Student</b></p>
      </td>
    <tr>
 </table>
 </div>
+
+---
+
 ### Basic information
       <p><b><img src="/email.jpg" width="15px">  E-mail：2112107016@e.gzhu.edu.cn</b></p>
       <p><b><img src="/building.jpg" width="15px">  Institution: School of Mechanical and Electric Engineering, Guangzhou University</b></p>
