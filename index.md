@@ -8,7 +8,9 @@
         <p><h1>Kaixian Liang</h1></p>
         <p><b>Graduate Student</b></p>
      </td>
-      
+   <tr>
+</table>
+</div>
       <p><b><img src="/email.jpg" width="15px">  E-mail：2112107016@e.gzhu.edu.cn</b></p>
       <p><b><img src="/building.jpg" width="15px">  Institution: School of Mechanical and Electric Engineering, Guangzhou University</b></p>
       <p><b><img src="/location.jpg" width="15px">  Location: Guangzhou, China</b></p>
