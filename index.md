@@ -1,5 +1,5 @@
 <div>
-<table border="0">
+
   <tr>
     
       <h1>Kaixian Liang</h1>
@@ -11,7 +11,7 @@
     
       <img src="/self-photo.jpg" width="100%">
   </tr>
-</table>
+
 </div>
 
 ---
