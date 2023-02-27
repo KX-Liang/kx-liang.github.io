@@ -31,8 +31,8 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 - 2022.09: One paper resubmitted to CMAME
 
 ---
-### :clipboard:Publications
-#### :book:Journal Papers
+### <img src="/publication.jpg" width="20px">  Publications
+#### <img src="/journal.jpg" width="20px">  Journal Papers
 <ul>
   
   <li><p><u><a href="https://www.sciencedirect.com/science/article/pii/S0094114X22003718">Macro-microscale topological design for compliant mechanisms with special mechanical properties</a></u></p>
@@ -48,7 +48,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 </ul>
 
 
-#### :newspaper:Conference
+#### <img src="/conference.jpg" width="20px">  Conference
 - <p><b>K. Liang</b>, D. Zhu, J. Liu, Topology optimization realization of a spatially parallel compliant mechanism with constant motion transmission characteristics, the 42nd ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, St. Louis, Missouri, August 14-17, 2022.<p>
 
 ### Honors and Awards
