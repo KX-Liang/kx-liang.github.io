@@ -4,9 +4,9 @@
     <td width="65%">
       <h1>Kaixian Liang</h1>
       <p><b>Graduate Student</b></p>
-      <p><b><img src="/building.jpg" width="15px">Institution: School of Mechanical and Electric Engineering, Guangzhou University</b></p>
-      <p><b><img src="/email.jpg" width="15px">E-mail：2112107016@e.gzhu.edu.cn</b></p>
-      <p><b><img src="/location.jpg" width="15px">Location: Guangzhou, China</b></p>
+      <p><b><img src="/building.jpg" width="20px">  Institution: School of Mechanical and Electric Engineering, Guangzhou University</b></p>
+      <p><b><img src="/email.jpg" width="20px">  E-mail：2112107016@e.gzhu.edu.cn</b></p>
+      <p><b><img src="/location.jpg" width="20px">  Location: Guangzhou, China</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="35%">
@@ -17,7 +17,7 @@
 </div>
 
 ---
-### <img src="/biography.jpg" width="15px">Biography
+### <img src="/biography.jpg" width="15px">  Biography
 
 Kaixian Liang graduated from Guangzhou University with a bachelors degree of mechanical engineering with outstanding performance (rank 1/168, GPA 3.97/5.0) in July 2021, and is now continuing his studies as a graduate student in mechanical engineering at Guangzhou University (Supervisor: Prof. Zhu Dachang).
 
