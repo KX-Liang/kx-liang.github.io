@@ -18,9 +18,9 @@
 
 ---
 
-### <img src="/biography.jpg" width="18px">  Biography
+### <img src="/biography.jpg" width="18px">  个人简介
 
-本人于2021年7月毕业于广州大学，获得机械设计制造及其自动化学士学位并以推荐免试方式进入广州大学攻读机械设计及理论研究型硕士研究生。在本科阶段，本人以绩点排名专业第一（排位1/186，绩点3.97/5.0）毕业且获得广州大学本科优秀毕业论文；在硕士研究生阶段继续保持严谨、认真的科研态度，截至目前本人研究生课程绩点排名第一（排位1/82，绩点3.99/5.0）。
+  本人于2021年7月毕业于广州大学，获得机械设计制造及其自动化学士学位并以推荐免试方式进入广州大学攻读机械设计及理论研究型硕士研究生。在本科阶段，本人以绩点排名专业第一（排位1/186，绩点3.97/5.0）毕业且获得广州大学本科优秀毕业论文；在硕士研究生阶段继续保持严谨、认真的科研态度，截至目前本人研究生课程绩点排名第一（排位1/82，绩点3.99/5.0）。
 
 I have a deeply interested in Topology optimization, Parallel mechanism, Soft robot and its sensing, and Machine learning. Until now, I have published some research paper in professional journals such as <b><i>Computer Methods in Applied Mechanics and Engineering</i></b> and <b><i>Mechanism and Machine Theory</i></b>.
 
