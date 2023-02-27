@@ -1,20 +1,4 @@
-<div>
-<table border="0">
-   <tr>
-     <td width="30%">
-        <img src="/self-photo.jpg" width="100%">
-     </td>
-     <td width="70%">
-        <h1>Kaixian Liang</h1>
-        <p><b>Graduate Student at Guangzhou University</b></p>
-        <p><b><img src="/email.jpg" width="15px"> 2112107016@e.gzhu.edu.cn</b></p>
-        <p><b><img src="/building.jpg" width="15px"> School of Mechanical and Electric Engineering</b></p>
-        <p><b><img src="/location.jpg" width="15px"> Guangzhou, China</b></p>
-        <p><a href="/index-en.md">中文版本</a></p>
-     </td>
-   <tr>
-</table>
-</div>
+<img src="/111.jpg" width="100%">
 
 ---
 
