@@ -1,10 +1,10 @@
 <div>
 <table border="0">
    <tr>
-     <td width="20%">
+     <td width="30%">
         <img src="/self-photo.jpg" width="100%">
      </td>
-     <td width="80%">
+     <td width="70%">
         <h1>Kaixian Liang</h1>
         <p><b>Graduate Student</b></p>
         <p><b>School of Mechanical and Electric Engineering</b></p>
