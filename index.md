@@ -15,9 +15,6 @@
       <p><b><img src="/building.jpg" width="15px">  Institution: School of Mechanical and Electric Engineering, Guangzhou University</b></p>
       <p><b><img src="/location.jpg" width="15px">  Location: Guangzhou, China</b></p>
       <p><a href="/index-en.html">中文版本</a></p>
-    
-      <img src="/self-photo.jpg" width="100%">
-
 ---
 ### <img src="/biography.jpg" width="18px">  Biography
 
