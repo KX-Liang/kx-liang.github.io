@@ -51,7 +51,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 #### <img src="/conference.jpg" width="18px">  Conference
 - <p><b>K. Liang</b>, D. Zhu, J. Liu, Topology optimization realization of a spatially parallel compliant mechanism with constant motion transmission characteristics, the 42nd ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, St. Louis, Missouri, August 14-17, 2022.<p>
 
-### Honors and Awards
+### <img src="/award.jpg" width="18px">  Honors and Awards
 - 2022.09 3rd-class Scholarship for Academic Excellence, GZU
 - 2021.09 Special Scholarship for Academic Excellence，GZU
 - 2021.06 Excellent Graduation Thesis of Guangzhou University
@@ -60,7 +60,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 - 2019.09 1st-class Scholarship for Academic Excellence, GZU
 - 2018.09 1st-class Scholarship for Academic Excellence, GZU
 
-### Educations
+### <img src="/education.jpg" width="18px">  Educations
 - 2021.09-Now, MEng, Guangzhou University, Guangzhou.
 - 2019.08, Project of AI and Robotic, University of Washington, Seattle.
 - 2017.09-2021.07, BEng, Guangzhou University, Guangzhou.
