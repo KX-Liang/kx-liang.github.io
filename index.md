@@ -1,5 +1,4 @@
-<div>
-    
+
       <h1>Kaixian Liang</h1>
       <p><b>Graduate Student</b></p>
       <p><b><img src="/email.jpg" width="15px">  E-mail：2112107016@e.gzhu.edu.cn</b></p>
@@ -8,8 +7,6 @@
       <p><a href="/index-en.html">中文版本</a></p>
     
       <img src="/self-photo.jpg" width="100%">
-
-</div>
 
 ---
 ### <img src="/biography.jpg" width="18px">  Biography
