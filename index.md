@@ -1,6 +1,4 @@
 <div>
-
-  <tr>
     
       <h1>Kaixian Liang</h1>
       <p><b>Graduate Student</b></p>
@@ -10,7 +8,6 @@
       <p><a href="/index-en.html">中文版本</a></p>
     
       <img src="/self-photo.jpg" width="100%">
-  </tr>
 
 </div>
 
