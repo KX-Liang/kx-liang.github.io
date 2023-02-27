@@ -33,7 +33,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 ---
 ### :clipboard:Publications
 #### :book:Journal Papers
-<ol>
+<ul>
   <li><p>Topology optimization of a spatial compliant parallel mechanism based on constant motion transmission characteristic matrix</p>
   <p><b>Kaixian Liang</b>, Dachang Zhu, Jie Liu</p>
   <p><i>Mechanism and Machine Theory</i></p> 
@@ -43,7 +43,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
   <p><b><i>Mechanism and Machine Theory</i></b></p> 
   <p><b>Kaixian Liang</b>, Dachang Zhu, Jie Liu</p>
   <img src="/TO parallel mechanism.jpg" width="60%"></li>
-</ol>
+</ul>
 
 
 #### :newspaper:Conference
