@@ -64,14 +64,4 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 - 2021.09-Now, MEng, Guangzhou University, Guangzhou.
 - 2019.08, Project of AI and Robotic, University of Washington, Seattle.
 - 2017.09-2021.07, BEng, Guangzhou University, Guangzhou.
-#### 公司/学校/研究所（2013.9~2017.6）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
 
-#### 公司/学校/研究所（2017.9~至今）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
