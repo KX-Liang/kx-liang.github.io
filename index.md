@@ -1,8 +1,10 @@
 <div>
 <table border="0">
    <tr>
-
-     <td width="100%">
+     <td width="20%">
+        <img src="/self-photo.jpg" width="100%">
+     </td>
+     <td width="80%">
         <h1>Kaixian Liang</h1>
         <p><b>Graduate Student</b></p>
         <p><b><img src="/email.jpg" width="15px">  E-mail：2112107016@e.gzhu.edu.cn</b></p>
@@ -13,8 +15,6 @@
    <tr>
 </table>
 </div>
-
-
 ---
 ### <img src="/biography.jpg" width="18px">  Biography
 
@@ -49,7 +49,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 
 #### <img src="/conference.jpg" width="18px">  Conference
 - <p><b>K. Liang</b>, D. Zhu, J. Liu, Topology optimization realization of a spatially parallel compliant mechanism with constant motion transmission characteristics, the 42nd ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, St. Louis, Missouri, August 14-17, 2022.<p>
-
+---
 ### <img src="/award.jpg" width="18px">  Honors and Awards
 - 2022.09 3rd-class Scholarship for Academic Excellence, GZU
 - 2021.09 Special Scholarship for Academic Excellence，GZU
@@ -58,7 +58,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 - 2020.09 2nd-class Scholarship for Academic Excellence, GZU
 - 2019.09 1st-class Scholarship for Academic Excellence, GZU
 - 2018.09 1st-class Scholarship for Academic Excellence, GZU
-
+---
 ### <img src="/education.jpg" width="18px">  Educations
 - 2021.09-Now, MEng, Guangzhou University, Guangzhou. (Rank: 1/82 GPA: 3.99/5.0)
 - 2019.08, Project of AI and Robotic, University of Washington, Seattle.
