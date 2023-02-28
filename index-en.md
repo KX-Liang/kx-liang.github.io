@@ -9,7 +9,7 @@
         <p><b>广州大学研究生</b></p>
         <p><b><img src="/email.jpg" width="15px">  E-mail：2112107016@e.gzhu.edu.cn</b></p>
         <p><b><img src="/building.jpg" width="15px">  学院: 机械与电气工程学院</b></p>
-        <p><b><img src="/location.jpg" width="15px">  地址: 广东省广州市</b></p>
+        <p><b><img src="/location.jpg" width="15px">  地址: 广东省广州市广州大学城</b></p>
         <p><a href="/index.md">English Version</a></p>
      </td>
    <tr>
