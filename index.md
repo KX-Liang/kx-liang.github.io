@@ -1,5 +1,5 @@
 <img src="/111.jpg" width="100%">
-<p><a href="/https://newbeeman4309.github.io">中文版</a></p>
+<p><a href="https://newbeeman4309.github.io">中文版</a></p>
 
 ---
 
