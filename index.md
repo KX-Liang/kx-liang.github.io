@@ -1,4 +1,4 @@
-<img src="/111.jpg" width="100%">
+<img src="/selfintro.png" width="100%">
 <p><a href="https://newbeeman4309.github.io">中文版</a></p>
 
 ---
