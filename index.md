@@ -1,5 +1,18 @@
+<html>
+	<body>
+		<nav>
+			<a href="https://newbeeman4309.github.io"><b>中文版</b></a>
+			<a href="#introduction"><b>Biography</b></a>
+			<a href="#education">Educations</a>
+			<a href="#news">Latest News</a>
+			<a href="#publication">Publications</a>
+			<a href="#honor">Honors</a>
+		</nav>
+	</body>
+</html>
+
 <img src="/selfintro.png" width="100%">
-<p><a href="https://newbeeman4309.github.io">中文版</a></p>
+<p></p>
 
 ---
 
