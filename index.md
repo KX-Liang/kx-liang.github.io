@@ -56,17 +56,22 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 
 
 <img src="/conference.jpg" width="18px">  <b>Conference</b>
-- <p><b>K. Liang</b>, D. Zhu, J. Liu, Topology optimization realization of a spatially parallel compliant mechanism with constant motion transmission characteristics, the 42nd ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, St. Louis, Missouri, August 14-17, 2022.<p>
+<ul>
+	
+ <li><p><b>K. Liang</b>, D. Zhu, J. Liu, Topology optimization realization of a spatially parallel compliant mechanism with constant motion transmission characteristics, the 42nd ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, St. Louis, Missouri, August 14-17, 2022.<p></li>
+	
+</ul>
    
 ---
    
 <h3 id="honors"> <img src="/award.jpg" width="18px">  Honors and Awards</h3>
-- 2022.09 3rd-class Scholarship for Academic Excellence, GZU
-- 2021.09 Special Scholarship for Academic Excellence，GZU
-- 2021.06 Excellent Graduation Thesis of Guangzhou University
-- 2021.02 3rd-class Scholarship for Academic Excellence, GZU
-- 2020.09 2nd-class Scholarship for Academic Excellence, GZU
-- 2019.09 1st-class Scholarship for Academic Excellence, GZU
-- 2018.09 1st-class Scholarship for Academic Excellence, GZU
-   
+<ul>
+<li> 2022.09 3rd-class Scholarship for Academic Excellence, GZU</li>
+<li> 2021.09 Special Scholarship for Academic Excellence，GZU</li>
+<li> 2021.06 Excellent Graduation Thesis of Guangzhou University</li>
+<li> 2021.02 3rd-class Scholarship for Academic Excellence, GZU</li>
+<li> 2020.09 2nd-class Scholarship for Academic Excellence, GZU</li>
+<li> 2019.09 1st-class Scholarship for Academic Excellence, GZU</li>
+<li> 2018.09 1st-class Scholarship for Academic Excellence, GZU</li>
+</ul>   
 
