@@ -3,10 +3,10 @@
 		<nav>
 			<a href="https://newbeeman4309.github.io"><b>中文</b></a>
 			<a href="#biography"><b>Biography</b></a>
-			<a href="#education">Educations</a>
-			<a href="#news">News</a>
-			<a href="#publication">Publications</a>
-			<a href="#honor">Honors</a>
+			<a href="#education"><b>Educations</b></a>
+			<a href="#news"><b>News</b></a>
+			<a href="#publication"><b>Publications</b></a>
+			<a href="#honor"><b>Honors</b></a>
 		</nav>
 	</body>
 </html>
