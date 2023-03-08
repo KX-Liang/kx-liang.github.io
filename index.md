@@ -60,10 +60,8 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 
 
 <img src="/conference.jpg" width="18px">  <b>Conference</b>
-<ul>
-	
- <li><p><b>K. Liang</b>, D. Zhu, J. Liu, Topology optimization realization of a spatially parallel compliant mechanism with constant motion transmission characteristics, the 42nd ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, St. Louis, Missouri, August 14-17, 2022.<p></li>
-	
+<ul>	
+ <li><p><b>K. Liang</b>, D. Zhu, J. Liu, Topology optimization realization of a spatially parallel compliant mechanism with constant motion transmission characteristics, the 42nd ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, St. Louis, Missouri, August 14-17, 2022.<p></li>	
 </ul>
    
 ---
