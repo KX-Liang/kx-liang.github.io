@@ -22,7 +22,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 
 ---
 
-<h3 id="educations"> <img src="/education.jpg" width="18px">  Educations</h3>
+<h3 id="education"> <img src="/education.jpg" width="18px">  Educations</h3>
 <ul>
 <li>2021.09-Now, MEng, Guangzhou University, Guangzhou. (Rank: 1/82 GPA: 3.99/5.0)</li>
 <li>2019.08, Project of Artificial Intelligence and Robotic, University of Washington, Seattle.</li>
