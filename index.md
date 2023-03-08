@@ -24,18 +24,18 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 
 <h3 id="education"> <img src="/education.jpg" width="18px">  Educations</h3>
 <ul>
-<li>2021.09-Now, MEng, Guangzhou University, Guangzhou. (Rank: 1/82 GPA: 3.99/5.0)</li>
-<li>2019.08, Project of Artificial Intelligence and Robotic, University of Washington, Seattle.</li>
-<li>2017.09-2021.07, BEng, Guangzhou University, Guangzhou. (Rank: 1/168 GPA: 3.97/5.0)</li>
+<li style="margin-top:20px">2021.09-Now, MEng, Guangzhou University, Guangzhou. (Rank: 1/82 GPA: 3.99/5.0)</li>
+<li style="margin-top:20px">2019.08, Project of Artificial Intelligence and Robotic, University of Washington, Seattle.</li>
+<li style="margin-top:20px">2017.09-2021.07, BEng, Guangzhou University, Guangzhou. (Rank: 1/168 GPA: 3.97/5.0)</li>
 </ul>
 
 ---
 
 <h3 id="news"> <img src="/news.jpg" width="18px">  Latest News </h3>
 <ul>
-<li>2023.02: One paper accepted-<i>CMAME</i></li>
-<li>2023.01: Exploring new frontiers-Topology optimization and Machine Learning</li>
-<li>2022.09: One paper submitted-<i>CMAME</i></li>
+<li style="margin-top:20px">2023.02: One paper accepted-<i>CMAME</i></li>
+<li style="margin-top:20px">2023.01: Exploring new frontiers-Topology optimization and Machine Learning</li>
+<li style="margin-top:20px">2022.09: One paper submitted-<i>CMAME</i></li>
 </ul>
 	
 ---
@@ -67,12 +67,12 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
    
 <h3 id="honor"> <img src="/award.jpg" width="18px">  Honors and Awards</h3>
 <ul>
-<li style="margin-top:50px"> 2022.09 3rd-class Scholarship for Academic Excellence, GZU</li>
-<li style="margin-top:50px"> 2021.09 Special Scholarship for Academic Excellence，GZU</li>
-<li> 2021.06 Excellent Graduation Thesis of Guangzhou University</li>
-<li> 2021.02 3rd-class Scholarship for Academic Excellence, GZU</li>
-<li> 2020.09 2nd-class Scholarship for Academic Excellence, GZU</li>
-<li> 2019.09 1st-class Scholarship for Academic Excellence, GZU</li>
-<li> 2018.09 1st-class Scholarship for Academic Excellence, GZU</li>
+<li style="margin-top:20px"> 2022.09 3rd-class Scholarship for Academic Excellence, GZU</li>
+<li style="margin-top:20px"> 2021.09 Special Scholarship for Academic Excellence，GZU</li>
+<li style="margin-top:20px"> 2021.06 Excellent Graduation Thesis of Guangzhou University</li>
+<li style="margin-top:20px"> 2021.02 3rd-class Scholarship for Academic Excellence, GZU</li>
+<li style="margin-top:20px"> 2020.09 2nd-class Scholarship for Academic Excellence, GZU</li>
+<li style="margin-top:20px"> 2019.09 1st-class Scholarship for Academic Excellence, GZU</li>
+<li style="margin-top:20px"> 2018.09 1st-class Scholarship for Academic Excellence, GZU</li>
 </ul>   
 
