@@ -23,17 +23,21 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 ---
 
 <h3 id="educations"> <img src="/education.jpg" width="18px">  Educations</h3>
-- 2021.09-Now, MEng, Guangzhou University, Guangzhou. (Rank: 1/82 GPA: 3.99/5.0)
-- 2019.08, Project of Artificial Intelligence and Robotic, University of Washington, Seattle.
-- 2017.09-2021.07, BEng, Guangzhou University, Guangzhou. (Rank: 1/168 GPA: 3.97/5.0)
+<ul>
+<li>2021.09-Now, MEng, Guangzhou University, Guangzhou. (Rank: 1/82 GPA: 3.99/5.0)</li>
+<li>2019.08, Project of Artificial Intelligence and Robotic, University of Washington, Seattle.</li>
+<li>2017.09-2021.07, BEng, Guangzhou University, Guangzhou. (Rank: 1/168 GPA: 3.97/5.0)</li>
+</ul>
 
 ---
 
 <h3 id="news"> <img src="/news.jpg" width="18px">  Latest News </h3>
-- 2023.02: One paper accepted by <i>CMAME</i>
-- 2023.01: Exploring new frontiers-Topology optimization and Machine Learning
-- 2022.09: One paper resubmitted to <i>CMAME</i>
-
+<ul>
+<li>2023.02: One paper accepted by <i>CMAME</i></li>
+<li>2023.01: Exploring new frontiers-Topology optimization and Machine Learning</li>
+<li>2022.09: One paper resubmitted to <i>CMAME</i></li>
+</ul>
+	
 ---
 
 <h3 id="publication"> <img src="/publication.jpg" width="18px">  Publications</h3>
