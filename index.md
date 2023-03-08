@@ -2,7 +2,7 @@
 	<body>
 		<nav>
 			<a href="https://newbeeman4309.github.io"><font color="red"><b>中文</b></font></a>
-			<a href="#biography"><font color: "#708090"><b>Biography</b></font></a>
+			<a href="#biography"><font color="#708090"><b>Biography</b></font></a>
 			<a href="#education"><b>Educations</b></a>
 			<a href="#news"><b>News</b></a>
 			<a href="#publication"><b>Publications</b></a>
