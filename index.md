@@ -1,9 +1,9 @@
 <html>
 	<body>
 		<nav>
-			<a href="https://newbeeman4309.github.io"><font color="red"><b>中文</b></font></a>
-			<a href="#biography"><font color="#708090"><b>Biography</b></font></a>
-			<a href="#education"><b>Educations</b></a>
+			<a href="https://newbeeman4309.github.io"><font color="red"><b><u>中文</u></b></font></a>
+			<a href="#biography"><font color="#708090"><u><b>Biography</b></u></font></a>
+			<a href="#education"><font color="#708090"><u><b>Educations</b></u></font></a>
 			<a href="#news"><b>News</b></a>
 			<a href="#publication"><b>Publications</b></a>
 			<a href="#honor"><b>Honors</b></a>
