@@ -1,8 +1,8 @@
 <html>
 	<body>
 		<nav>
-			<a href="https://newbeeman4309.github.io"><b>中文</b></a>
-			<a href="#biography"><b>Biography</b></a>
+			<a href="https://newbeeman4309.github.io"><b><font color="red">中文</font></b></a>
+			<a href="#biography"><b><font color: "#708090">Biography</font></b></a>
 			<a href="#education"><b>Educations</b></a>
 			<a href="#news"><b>News</b></a>
 			<a href="#publication"><b>Publications</b></a>
@@ -66,7 +66,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
    
 ---
    
-<h3 id="honors"> <img src="/award.jpg" width="18px">  Honors and Awards</h3>
+<h3 id="honor"> <img src="/award.jpg" width="18px">  Honors and Awards</h3>
 <ul>
 <li> 2022.09 3rd-class Scholarship for Academic Excellence, GZU</li>
 <li> 2021.09 Special Scholarship for Academic Excellence，GZU</li>
