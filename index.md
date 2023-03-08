@@ -67,12 +67,12 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
    
 <h3 id="honor"> <img src="/award.jpg" width="18px">  Honors and Awards</h3>
 <ul>
-<li style="margin-top:20px"> 2022.09 3rd-class Scholarship for Academic Excellence, GZU</li>
-<li style="margin-top:20px"> 2021.09 Special Scholarship for Academic Excellence，GZU</li>
-<li style="margin-top:20px"> 2021.06 Excellent Graduation Thesis of Guangzhou University</li>
-<li style="margin-top:20px"> 2021.02 3rd-class Scholarship for Academic Excellence, GZU</li>
-<li style="margin-top:20px"> 2020.09 2nd-class Scholarship for Academic Excellence, GZU</li>
-<li style="margin-top:20px"> 2019.09 1st-class Scholarship for Academic Excellence, GZU</li>
-<li style="margin-top:20px"> 2018.09 1st-class Scholarship for Academic Excellence, GZU</li>
+<li style="margin-top:10px"> 2022.09 3rd-class Scholarship for Academic Excellence, GZU</li>
+<li style="margin-top:10px"> 2021.09 Special Scholarship for Academic Excellence，GZU</li>
+<li style="margin-top:10px"> 2021.06 Excellent Graduation Thesis of Guangzhou University</li>
+<li style="margin-top:10px"> 2021.02 3rd-class Scholarship for Academic Excellence, GZU</li>
+<li style="margin-top:10px"> 2020.09 2nd-class Scholarship for Academic Excellence, GZU</li>
+<li style="margin-top:10px"> 2019.09 1st-class Scholarship for Academic Excellence, GZU</li>
+<li style="margin-top:10px"> 2018.09 1st-class Scholarship for Academic Excellence, GZU</li>
 </ul>   
 
