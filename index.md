@@ -1,3 +1,4 @@
+li{margin:30px 0px;}
 <html>
 	<body>
 		<nav>
@@ -33,9 +34,9 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 
 <h3 id="news"> <img src="/news.jpg" width="18px">  Latest News </h3>
 <ul>
-<li>2023.02: One paper accepted by <i>CMAME</i></li>
+<li>2023.02: One paper accepted-<i>CMAME</i></li>
 <li>2023.01: Exploring new frontiers-Topology optimization and Machine Learning</li>
-<li>2022.09: One paper resubmitted to <i>CMAME</i></li>
+<li>2022.09: One paper submitted-<i>CMAME</i></li>
 </ul>
 	
 ---
