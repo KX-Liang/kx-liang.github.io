@@ -1,7 +1,7 @@
 <html>
 	<body>
 		<nav>
-			<a href="https://newbeeman4309.github.io"><b><font color="red">中文<front></b></a>
+			<a href="https://newbeeman4309.github.io" style="color:#ddd"><b>中文</b></a>
 			<a href="#biography"><b>Biography</b></a>
 			<a href="#education"><b>Educations</b></a>
 			<a href="#news"><b>News</b></a>
