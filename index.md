@@ -33,9 +33,9 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 
 <h3 id="news"> <img src="/news.jpg" width="18px">  Latest News </h3>
 <ul>
+<li style="margin-top:10px">2023.06: A great development in TO-ML</li>
 <li style="margin-top:10px">2023.02: One paper accepted-<i>CMAME</i></li>
 <li style="margin-top:10px">2023.01: Exploring new frontiers-Topology optimization and Machine Learning</li>
-<li style="margin-top:10px">2022.09: One paper submitted-<i>CMAME</i></li>
 </ul>
 	
 ---
