@@ -27,9 +27,10 @@
 ---
 
 ### <img src="/news.jpg" width="18px">  Latest News
+- 2023.07: 一篇研究论文投稿至Nature Communication
+- 2023.05: 重大进展：机器学习与拓扑优化
 - 2023.02: 一篇研究论文被CMAME接收
 - 2023.01: 开创新研究领域：机器学习与拓扑优化
-- 2022.09: 一篇研究论文投稿至CMAME
 
 ---
 ### <img src="/publication.jpg" width="18px">  已出版文章
