@@ -33,7 +33,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 
 <h3 id="news"> <img src="/news.jpg" width="18px">  Latest News </h3>
 <ul>
-<li style="margin-top:10px">2023.07: One paper submit to <i>Nature Communication</i></li>
+<li style="margin-top:10px">2023.08: One paper submit to <i>CMAME</i></li>
 <li style="margin-top:10px">2023.06: A great development in TO-ML</li>
 <li style="margin-top:10px">2023.02: One paper accepted-<i>CMAME</i></li>
 <li style="margin-top:10px">2023.01: Exploring new frontiers-Topology optimization and Machine Learning</li>
@@ -43,7 +43,7 @@ I have a deeply interested in Topology optimization, Parallel mechanism, Soft ro
 
 <h3 id="publication"> <img src="/publication.jpg" width="18px">  Publications</h3>
 
-<img src="/journal.jpg" width="18px">  <b>Journal Papers</b>
+<img src="/journal.jpg" width="18px">  <b>Article</b>
 
 <ul>
   
