@@ -33,10 +33,10 @@ I have a deeply interested in Topology optimization, Metamaterials, Parallel mec
 
 <h3 id="news"> <img src="/news.jpg" width="18px">  Latest News </h3>
 <ul>
+<li style="margin-top:10px">2023.09: Received the Graduate National Scholarship</li>
 <li style="margin-top:10px">2023.08: One paper submit to <i>CMAME</i></li>
 <li style="margin-top:10px">2023.06: A great development in TO-ML</li>
 <li style="margin-top:10px">2023.02: One paper accepted-<i>CMAME</i></li>
-<li style="margin-top:10px">2023.01: Exploring new frontiers-Topology optimization and Machine Learning</li>
 </ul>
 	
 ---
@@ -68,6 +68,7 @@ I have a deeply interested in Topology optimization, Metamaterials, Parallel mec
    
 <h3 id="honor"> <img src="/award.jpg" width="18px">  Honors and Awards</h3>
 <ul>
+<li style="margin-top:10px"> 2023.09 Graduate National Scholarship</li>
 <li style="margin-top:10px"> 2022.09 3rd-class Scholarship for Academic Excellence, GZU</li>
 <li style="margin-top:10px"> 2021.09 Special Scholarship for Academic Excellence，GZU</li>
 <li style="margin-top:10px"> 2021.06 Excellent Graduation Thesis of Guangzhou University</li>
