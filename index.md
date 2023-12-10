@@ -60,7 +60,7 @@ I have a deeply interested in Topology optimization, Metamaterials, Parallel mec
   <li><p><u><a>A Fourier neural operator-based lightweight machine learning framework for topology optimization</a></u></p>
   <p><b>Kaixian Liang</b>, Dachang Zhu, Fangyi Li</p>
   <p><b><i>Applied mathematical modelling</i></b>(Under Review)</p> 
-  <img src="/TO parallel mechanism.jpg" width="100%"></li>
+  <img src="/fourier.jpg" width="100%"></li>
   
 </ul>
 
