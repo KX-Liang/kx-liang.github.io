@@ -20,6 +20,8 @@ Kaixian Liang graduated from Guangzhou University with a bachelors degree of mec
 
 I have a deeply interested in Topology optimization, Metamaterials, Parallel mechanism, Soft robot and its sensing, and Machine learning. Until now, I have published some research paper in professional journals such as <b><i>Computer Methods in Applied Mechanics and Engineering</i></b>, <b><i>Mechanism and Machine Theory</i></b>, and <b><i>Applied mathematical modelling</i></b>.
 
+<a href="https://scholar.google.com/citations?user=bgY6iTEAAAAJ&hl=en&oi=ao"><font color="#708090"><u>Google Scholar</u></font></a>
+
 ---
 
 <h3 id="education"> <img src="/education.jpg" width="18px">  Educations</h3>
