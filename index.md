@@ -33,10 +33,9 @@ I have a deeply interested in Topology optimization, Metamaterials, Parallel mec
 
 <h3 id="news"> <img src="/news.jpg" width="18px">  Latest News </h3>
 <ul>
-<li style="margin-top:10px">2023.09: Received the Graduate National Scholarship</li>
-<li style="margin-top:10px">2023.08: One paper submit to <i>CMAME</i></li>
-<li style="margin-top:10px">2023.06: A great development in TO-ML</li>
-<li style="margin-top:10px">2023.02: One paper accepted-<i>CMAME</i></li>
+<li style="margin-top:10px">2024.03: One paper accepted-<i>AMM</i></li>
+<li style="margin-top:10px">2023.09: Received the Graduate National Scholarship</li>	
+<li style="margin-top:10px">2023.03: One paper accepted-<i>CMAME</i></li>
 </ul>
 	
 ---
