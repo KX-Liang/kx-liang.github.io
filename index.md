@@ -18,7 +18,7 @@
 <h3 id="biography"> <img src="/biography.jpg" width="18px">  Biography </h3>
 Kaixian Liang graduated from Guangzhou University with a bachelors degree of mechanical engineering with outstanding performance (rank 1/168, GPA 3.97/5.0) in July 2021, and is now continuing his studies as a master student in mechanical engineering at Guangzhou University (Supervisor: Prof. Zhu Dachang).
 
-I have a deeply interested in Topology optimization, Metamaterials, Parallel mechanism, Soft robot and its sensing, and Machine learning. Until now, I have published some research paper in professional journals such as <b><i>Computer Methods in Applied Mechanics and Engineering</i></b> and <b><i>Mechanism and Machine Theory</i></b>.
+I have a deeply interested in Topology optimization, Metamaterials, Parallel mechanism, Soft robot and its sensing, and Machine learning. Until now, I have published some research paper in professional journals such as <b><i>Computer Methods in Applied Mechanics and Engineering</i></b>, <b><i>Mechanism and Machine Theory</i></b>, and <b><i>Applied mathematical modelling</i></b>.
 
 ---
 
