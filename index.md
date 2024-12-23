@@ -26,7 +26,8 @@ I have a deeply interested in Topology optimization, Metamaterials, Parallel mec
 
 <h3 id="education"> <img src="/education.jpg" width="18px">  Educations</h3>
 <ul>
-<li style="margin-top:10px">2021.09-Now, MEng, Guangzhou University, Guangzhou. (Rank: 2/82 GPA: 3.99/5.0)</li>
+<li style="margin-top:10px">2021.09-2024.06, MEng, Guangzhou University, Guangzhou. (Rank: 2/82 GPA: 3.99/5.0)</li>
+<li style="margin-top:10px">2021.09-2024.06, MEng, Guangzhou University, Guangzhou. (Rank: 2/82 GPA: 3.99/5.0)</li>
 <li style="margin-top:10px">2019.08, Project of Artificial Intelligence and Robotic, University of Washington, Seattle.</li>
 <li style="margin-top:10px">2017.09-2021.07, BEng, Guangzhou University, Guangzhou. (Rank: 1/168 GPA: 3.97/5.0)</li>
 </ul>
